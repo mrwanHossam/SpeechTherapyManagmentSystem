@@ -1,0 +1,15 @@
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\bin\Debug\SpeechTherapyManagmentSystem.exe
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\bin\Debug\SpeechTherapyManagmentSystem.pdb
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.csprojResolveAssemblyReference.cache
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.Properties.Resources.resources
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.csproj.GenerateResource.Cache
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.exe
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.pdb
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\bin\Debug\SpeechTherapyManagmentSystem.exe.config
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.DataExplorer.resources
+c:\users\shokr\documents\visual studio 2017\Projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.Login.resources
+D:\iti\iti\projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\bin\Debug\SpeechTherapyManagmentSystem.exe.config
+D:\iti\iti\projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.exe
+D:\iti\iti\projects\SpeechTherapyManagmentSystem\SpeechTherapyManagmentSystem\obj\Debug\SpeechTherapyManagmentSystem.pdb
